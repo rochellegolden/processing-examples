@@ -1,4 +1,6 @@
+//this comment made from the PCC Mac Classroom
 //today is the first day to use these examples
+
 int boxsize = 50; //instantiate and assign an integer value as the size of the grid box. 
 int cols, rows; //instantiate variables for how many columns and rows to draw in the grid 
 
